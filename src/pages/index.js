@@ -540,7 +540,7 @@ const Home = () => {
                       Usted puede acceder al monitor de red de LACChain EOSIO para
                       visualizar métricas y datos de red “on-chain” y “off-chain.”
                     </Translate>{" "}
-                    <a href="https://lacchain.eosio.online/" target="_blank">
+                    <a href="https://lacchain.antelope.tools/" target="_blank">
                       <Translate id="homepage.networkMonitorLink">
                         Visite el Monitor de Red
                       </Translate>

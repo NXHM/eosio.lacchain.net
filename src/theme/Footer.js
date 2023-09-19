@@ -111,7 +111,7 @@ const Footer = () => {
                 <p style={{textAlign: isMobile ? 'center' : ''}}>
                   <Link
                     className="linkFooter"
-                    href="https://lacchain.eosio.online/"
+                    href="https://lacchain.antelope.tools/"
                     target="_blank"
                     style={{color:'white'}}
                   >

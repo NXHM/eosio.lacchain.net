@@ -19,7 +19,7 @@ A continuación algunos ejemplos de endpoints HTTP RPC
   - Nodo Observador solo lectura : [https://observer.edenia.cloud](https://lacchain.edenia.cloud/v1/chain/get_info)
   - Nodo Escritor sin Middleware : [https://writer.edenia.cloud](https://lacchain.edenia.cloud/v1/chain/get_info) 
 
-La lista completa de endpoints esta disponible en el siguiente enlace : [Endpoints LACChain EOSIO](https://lacchain.eosio.online/endpoints)
+La lista completa de endpoints esta disponible en el siguiente enlace : [Endpoints LACChain EOSIO](https://lacchain.antelope.tools/endpoints)
 
 ### Endpoints State History Plugin
 

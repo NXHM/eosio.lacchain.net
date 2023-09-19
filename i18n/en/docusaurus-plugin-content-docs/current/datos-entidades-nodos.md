@@ -77,7 +77,7 @@ it will insert or update a record in the `entity` table located  in the `eosio` 
 	"code_of_conduct": "https://eoscostarica.io/en/transparency/#code_of_conduct",
 	"ownership_disclosure": "https://eoscostarica.io/en/transparency/#ownership_disclosure",
 	"github_user": "eoscostarica",
-	"chain_resources": ["https://lacchain.eosio.online"],
+	"chain_resources": ["https://lacchain.antelope.tools"],
 	"other_resources": ["https://guias.eoscostarica.io", "https://guides.eoscostarica.io"],
 	"branding": {
 		"logo_256": "https://eoscostarica.io/assets/eos-CostaRica-256x256.png",
@@ -227,7 +227,7 @@ For query type nodes one or more features from the list below must be added:
   - `snapshot-api`
 
 ## Useful Links
-To access the user interface to update data, select the "Update Node Info" option in the [Network Monitor](https://lacchain.eosio.online).
+To access the user interface to update data, select the "Update Node Info" option in the [Network Monitor](https://lacchain.antelope.tools).
 
 Validate your JSON inputs here: https://www.jsonschemavalidator.net/
 
