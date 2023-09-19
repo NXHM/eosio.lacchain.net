@@ -65,8 +65,8 @@ const PATHS = [
         icon: 'img/icons/navbar/block-explorer.png'
       },
       {
-        path: "https://lacchain.eosio.online/",
-        espPath: "https://lacchain.eosio.online/",
+        path: "https://lacchain.antelope.tools/",
+        espPath: "https://lacchain.antelope.tools/",
         label: 
           translate({
             id: 'footer.networkDashboard',

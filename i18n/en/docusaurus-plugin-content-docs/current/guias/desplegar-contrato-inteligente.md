@@ -140,7 +140,7 @@ By this point in the execution, we already have our smart contract deployed in L
 
 ## 6. Contract Verification
 
-For this we go to the [LACChain EOSIO Dashboard](https://lacchain.eosio.online/accounts), we can verify that the account is the owner of a contract that exposes the action `hello` and that it contains the information ABI in which the actions within the contract and associated components are specified in a JSON structure.
+For this we go to the [LACChain EOSIO Dashboard](https://lacchain.antelope.tools/accounts), we can verify that the account is the owner of a contract that exposes the action `hello` and that it contains the information ABI in which the actions within the contract and associated components are specified in a JSON structure.
 
 Once the contract is ready, actions can be executed in the contract, for this you must [prepare the transaction](./transactions).
 
